@@ -1,5 +1,7 @@
 Built using **Next.js**, **TypeScript**, **Material UI** and **TailwindCSS**
 
+Captain Climate is a service offering an Interactive Application spreading awareness about human activities affecting climate in the resultant big climate change, followed by Great Incentives and Internship Opportunities to Captain Ambassadors.
+
 ## Local Setup Instructions :rocket:
 - fork and clone this repository
 - cd into **project-tbs** (`cd project-tbs`)
@@ -8,4 +10,4 @@ Built using **Next.js**, **TypeScript**, **Material UI** and **TailwindCSS**
 - open _localhost:3000_
 
 
-Captain Climate is a service offering an Interactive Application spreading awareness about human activities affecting climate in the resultant big climate change, followed by Great Incentives and Internship Opportunities to Captain Ambassadors. 
+ 
